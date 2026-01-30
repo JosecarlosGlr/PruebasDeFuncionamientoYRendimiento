@@ -6,7 +6,7 @@ Para ejecutar las pruebas de carga, he optado por **ApacheBench**, una herramien
 **Comando ejecutado:**
 ```bash
 sudo apt install apache2-utils -y
-``
+```
 ![](https://raw.githubusercontent.com/JosecarlosGlr/PruebasDeFuncionamientoYRendimiento/refs/heads/main/1.png)
 
 ---
